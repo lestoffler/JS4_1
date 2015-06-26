@@ -1,0 +1,36 @@
+.big-button {
+	position: absolute;
+	margin: 5px;
+	height: 100px;
+	width: 200px;
+	top: 340px;
+  	left: 290px;
+  	background-color: turquoise;
+}
+
+.popup {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: peachpuff;
+	 
+}
+.popup > p {
+	color: red;
+	font-weight: bolder;
+	text-align: center;
+	font-size: 40px;
+	font-family: Times;
+	top: 300px;
+}
+.closebutton {
+	position: relative;
+	top: 680px;
+  left: 260px;
+  height: 40px;
+  width: 200px;
+}
+
+
+
